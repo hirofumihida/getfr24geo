@@ -20,6 +20,6 @@ response, content = h.request(
         body,
         headers)
 
-data = json.loads(content)
+data = json.dumps(content.decode('utf-8'))
 
 print(data)
