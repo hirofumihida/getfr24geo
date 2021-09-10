@@ -2,7 +2,7 @@
 
 ## objectives
 
-- get geo json data from flightrader24
+- get geo json data from flightradar24
 
 ## target location
 
